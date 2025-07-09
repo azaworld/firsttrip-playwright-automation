@@ -1,0 +1,26 @@
+{
+  "name": "firsttrip-playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azaworld/firsttrip-playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azaworld/firsttrip-playwright-automation/issues"
+  },
+  "homepage": "https://github.com/azaworld/firsttrip-playwright-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "playwright": "^1.53.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
